@@ -6,7 +6,7 @@
 <br>
 <p align="center">
 	<a href="https://twitter.com/jks_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jks_0_0" height="30" width="40" /></a>
-	<a href="https://linkedin.com/in/etienne juzans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etienne juzans" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/etienne-juzans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etienne-juzans" height="30" width="40" /></a>
 	<a href="https://discord.gg/JKS#6079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JKS#6079" height="30" width="40" /></a>
 </p>
 <hr>
