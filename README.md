@@ -1,7 +1,7 @@
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=jks9&label=Profile%20views&color=0e75b6&style=flat" alt="jks9" />
 </p>
-<h2 align="center">Hi ! I'm Etienne Juzans</h2>
+<h3 align="center">Hey ! I'm Etienne Juzans</h3>
 <h3 align="center">Passionate about JavaScript frameworks, whether front-end or back-end. Passionate about computer culture, geek and high technology</h3>
 <br>
 <p align="center">
