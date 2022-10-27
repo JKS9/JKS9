@@ -9,8 +9,6 @@ Find all the information about my career and my business projects on my website.
 
 <summary><b>📝&nbsp;&nbsp;Online project</b></summary>
 
-</br>
-
 - [AnimeInfoBots : Schedule of Manga releases, of the day](https://twitter.com/AnimeInfoBots)
 
 - [NasaPictureBot : I post images from #Nasa](https://twitter.com/NasaPictureBot)
