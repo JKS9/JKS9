@@ -11,19 +11,17 @@ Find all the information about my career and my business projects on my website.
 
 - [My Web site](https://www.etiennejuz.com/)
 
-- [AnimeInfoBots : Schedule of Manga releases, of the day](https://twitter.com/AnimeInfoBots)
-
 - [NasaPictureBot : I post images from #Nasa](https://twitter.com/NasaPictureBot)
 
-- [BotFinanceNews : Financial News in French, of the day](https://twitter.com/BotFinanceNews)
+- [Aedelie](https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/)
+
+- [Tastr.us](https://www.tastr.us/)
 
 </br>
 
 <summary><b>🎯&nbsp;&nbsp;My goals</b></summary>
 
-- Become a React.js expert
-- Become a React-Native expert
-- Become a Node.js expert
+- Become a Back-end Node.js expert
 - Have an excellent mastery of DevOps tools (AWS, OVH, Heroku, CI/CD etc...)
 - Train me on the management side of a team
 - Open a web agency
@@ -31,6 +29,14 @@ Find all the information about my career and my business projects on my website.
 </br>
 
 <summary><b>💪&nbsp;&nbsp;What i train on</b></summary>
+
+- Nest.js
+- AWS
+- Jest
+
+</br>
+
+<summary>What i train on 2022</summary>
 
 - React-redux
 - Next.js
