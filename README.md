@@ -41,7 +41,7 @@
 
 ---
 
-## 🔨 Personal Projects
+## 🔨 Quick link
 
 - [My Website](https://www.etiennejuz.com/): The heart of my portfolio.
 - [Neocity](https://neocity.fr/#): Connection between the city and its citizens.
