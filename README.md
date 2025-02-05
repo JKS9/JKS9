@@ -33,6 +33,7 @@
 
 ## 🌍 Social Media
 
+- [My Website](https://www.etiennejuz.com/): The heart of my portfolio.
 - [GitHub](https://github.com/JKS9)
 - [Medium](https://medium.com/@juzans-JKS9)
 - [LinkedIn](https://www.linkedin.com/in/etienne-juzans/)
@@ -40,11 +41,3 @@
 - [Gumroad](https://jks9.gumroad.com/)
 
 ---
-
-## 🔨 Quick link
-
-- [My Website](https://www.etiennejuz.com/): The heart of my portfolio.
-- [Neocity](https://neocity.fr/#): Connection between the city and its citizens.
-- [Aedelie](https://eemeo-taaaa-aaaad-qakjq-cai.ic.fleek.co/): A unique project for an immersive experience.
-- [Tastr.us](https://www.tastr.us/): Simplified management of film / series / documentary searches.
-- [Rutabago](https://rutabago.com/): Ex Innovative application for the food industry.
