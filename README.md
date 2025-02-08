@@ -38,10 +38,15 @@
 ## 🌍 Connect with Me
 
 🌎 **Website** → [My Portfolio](https://www.etiennejuz.com/) 
+
 🐙 **GitHub** → [JKS9](https://github.com/JKS9)  
+
 ✍ **Medium** → [My Articles](https://medium.com/@juzans-JKS9)
+
 💼 **LinkedIn** → [My Profile](https://www.linkedin.com/in/etienne-juzans/) 
+
 🛠 **Malt** → [Hire Me](https://www.malt.fr/profile/etiennejuzans)
+
 🛒 **Gumroad** → [My Products](https://jks9.gumroad.com/) 
 
 ---
