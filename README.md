@@ -1,14 +1,17 @@
-# Etienne Juzans ! JKS9
+# Etienne Juzans (JKS9)
 
-[⭐ FreeLance ⭐](https://www.malt.fr/profile/etiennejuzans)
+> **Freelance | Back-End Developer**  
+> Crafting scalable, high-performance backend solutions with **Node.js, NestJS**, and cloud technologies.
 
-## 🌐 Technologies
+---
+
+## 🚀 Expertise
 
 ### 🧑‍💻 Programming Languages
-- JavaScript
+- JavaScript (ES6+)
 - TypeScript
 
-### 🛠️ Frameworks & Libraries
+### 📦 Frameworks & Libraries
 - Node.js
 - NestJS
 - Express
@@ -18,26 +21,29 @@
 - MySQL
 - SQL
 
-### ⚙️ Tools
-- Docker
-- Git
-- GitHub
-- GitLab CI/CD
+### ⚙️ Tools & DevOps
+- Docker & Kubernetes
+- Git, GitHub, GitLab CI/CD
+- AWS & Firebase
 
 ### 🏗️ Architecture & Development
-- Micro service
-- Software Architecture
-- Back-End Development
-- APIs
-- Admin sys
-
-## 🌍 Social Media
-
-- [My Website](https://www.etiennejuz.com/): The heart of my portfolio.
-- [GitHub](https://github.com/JKS9)
-- [Medium](https://medium.com/@juzans-JKS9)
-- [LinkedIn](https://www.linkedin.com/in/etienne-juzans/)
-- [Malt](https://www.malt.fr/profile/etiennejuzans)
-- [Gumroad](https://jks9.gumroad.com/)
+- Microservices & Serverless
+- Scalable Software Architecture
+- Secure API Design
+- Performance Optimization
+- System Administration & Monitoring
 
 ---
+
+## 🌍 Connect with Me
+
+🌎 **Website** → [My Portfolio](https://www.etiennejuz.com/) 
+🐙 **GitHub** → [JKS9](https://github.com/JKS9)  
+✍ **Medium** → [My Articles](https://medium.com/@juzans-JKS9)
+💼 **LinkedIn** → [My Profile](https://www.linkedin.com/in/etienne-juzans/) 
+🛠 **Malt** → [Hire Me](https://www.malt.fr/profile/etiennejuzans)
+🛒 **Gumroad** → [My Products](https://jks9.gumroad.com/) 
+
+---
+
+💬 **Let’s build something amazing together!**
