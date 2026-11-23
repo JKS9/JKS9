@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="960" height="200" role="img" aria-label="Any website, the hard part handled, clean data every day">
+  <style>
+    .card { fill: #0D1117; stroke: #30363D; }
+    .panel { fill: #161B22; stroke: #30363D; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .junk { font-size: 12px; fill: #6E7681; }
+    .junk-dim { font-size: 12px; fill: #484F58; }
+    .json { font-size: 13px; fill: #E6EDF3; }
+    .key { fill: #5FA04E; }
+    .punct { fill: #7D8590; }
+    .caption { font: 600 13px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #E6EDF3; }
+    .caption-accent { fill: #5FA04E; }
+    .box { fill: #161B22; stroke: #5FA04E; stroke-width: 1.5; }
+    .pulse { fill: none; stroke: #5FA04E; stroke-width: 2; animation: pulse 2.4s ease-in-out infinite; }
+    .dot { fill: #5FA04E; animation: blink 1.2s ease-in-out infinite; }
+    .d2 { animation-delay: 0.2s; }
+    .d3 { animation-delay: 0.4s; }
+    .in { stroke: #484F58; stroke-width: 2; stroke-dasharray: 6 6; animation: flow 0.9s linear infinite; }
+    .out { stroke: #5FA04E; stroke-width: 2; stroke-dasharray: 6 6; animation: flow 0.9s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -12; } }
+    @keyframes pulse { 0%, 100% { opacity: 0.1; } 50% { opacity: 0.7; } }
+    @keyframes blink { 0%, 100% { opacity: 0.2; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .in, .out, .pulse, .dot { animation: none; } }
+  </style>
+
+  <rect class="card" x="0.5" y="0.5" width="959" height="199" rx="12" />
+
+  <rect class="panel" x="30" y="25" width="300" height="125" rx="8" />
+  <g class="mono">
+    <text class="junk" x="48" y="56" transform="rotate(-6 48 56)">&lt;div class="x9f"&gt;</text>
+    <text class="junk-dim" x="190" y="50" transform="rotate(5 190 50)">&lt;/span&gt;&lt;/td&gt;</text>
+    <text class="junk-dim" x="60" y="86" transform="rotate(3 60 86)">onclick="load()"</text>
+    <text class="junk" x="200" y="92" transform="rotate(-8 200 92)">{"p":null,</text>
+    <text class="junk" x="110" y="114" transform="rotate(-2 110 114)">&lt;!-- page 2 --&gt;</text>
+    <text class="junk-dim" x="232" y="128" transform="rotate(7 232 128)">&amp;nbsp;&amp;nbsp;</text>
+    <text class="junk-dim" x="46" y="136" transform="rotate(-4 46 136)">&lt;td&gt;N/A&lt;/td&gt;</text>
+  </g>
+
+  <line class="in" x1="342" y1="87" x2="384" y2="87" />
+  <polygon fill="#484F58" points="384,82 392,87 384,92" />
+
+  <rect class="pulse" x="395" y="47" width="170" height="80" rx="13" />
+  <rect class="box" x="400" y="52" width="160" height="70" rx="10" />
+  <circle class="dot" cx="460" cy="87" r="5" />
+  <circle class="dot d2" cx="480" cy="87" r="5" />
+  <circle class="dot d3" cx="500" cy="87" r="5" />
+
+  <line class="out" x1="572" y1="87" x2="614" y2="87" />
+  <polygon fill="#5FA04E" points="614,82 622,87 614,92" />
+
+  <rect class="panel" x="630" y="25" width="300" height="125" rx="8" />
+  <g class="mono json">
+    <text x="652" y="50"><tspan class="punct">{</tspan></text>
+    <text x="672" y="70"><tspan class="key">"title"</tspan><tspan class="punct">:</tspan> "Clean &amp; structured"<tspan class="punct">,</tspan></text>
+    <text x="672" y="90"><tspan class="key">"updatedAt"</tspan><tspan class="punct">:</tspan> "today"<tspan class="punct">,</tspan></text>
+    <text x="672" y="110"><tspan class="key">"valid"</tspan><tspan class="punct">:</tspan> true</text>
+    <text x="652" y="130"><tspan class="punct">}</tspan></text>
+  </g>
+
+  <g text-anchor="middle">
+    <text class="caption" x="180" y="178">Any website</text>
+    <text class="caption caption-accent" x="480" y="178">The hard part, handled</text>
+    <text class="caption" x="780" y="178">Clean data, every day</text>
+  </g>
+</svg>
