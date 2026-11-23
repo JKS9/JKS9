@@ -56,18 +56,9 @@ const me = {
 
 ### From a messy website to clean data
 
-```mermaid
-flowchart LR
-    A("Messy website") --> B("Headless browser")
-    B --> C("Queue & retries")
-    C --> D("Validation")
-    D --> E("Clean data")
-    classDef step fill:#0D1117,stroke:#5FA04E,stroke-width:2px,color:#E6EDF3
-    classDef done fill:#5FA04E,stroke:#5FA04E,stroke-width:2px,color:#0D1117
-    class A,B,C,D step
-    class E done
-    linkStyle default stroke:#5FA04E,stroke-width:2px
-```
+<p align="center">
+  <img src="assets/pipeline.svg" alt="Any website → the hard part, handled → clean data, every day" width="100%" />
+</p>
 
 ## Tech stack
 
