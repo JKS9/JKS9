@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/zine-cover.svg" alt="JKS9, freelance back-end developer specialized in Node.js, NestJS and web scraping: turning messy websites into clean, structured data." width="100%" />
+  <img src="assets/zine-cover.svg" alt="JKS9, back-end developer specialized in Node.js, NestJS and web scraping: turning messy websites into clean, structured data." width="100%" />
 </p>
 
-## I'm JKS9, a freelance back-end developer specialized in Node.js, NestJS and web scraping.
+## I'm JKS9, a back-end developer specialized in Node.js, NestJS and web scraping.
 
-**Freelance back-end developer · Node.js, NestJS · Web scraping** · Available for freelance missions.
+**Back-end developer · Node.js, NestJS · Web scraping** · Available for missions.
 
 **Web scraping is the part of the job I never get tired of.** I turn messy websites into clean, structured data: headless browsers, dynamic pages, logins, pagination, rate limits, fragile selectors. The trickier the source, the more fun it gets, from a quick one-off script to a fleet of queue-driven workers running every day. Around that, I build scalable, high-performance back ends with Node.js, NestJS and the cloud.
 
 ### En français
 
-<p lang="fr">Je suis développeur back-end freelance, spécialisé en Node.js, NestJS et web scraping. J'extrais des données de sites qui ne facilitent pas la tâche (connexion, pages JavaScript, pagination, limites de requêtes) avec Playwright et Cheerio, et je les livre propres et structurées, une fois ou tous les jours. Extraction de données, pipelines sur AWS, API Node.js : disponible pour des missions freelance.</p>
+<p lang="fr">Je suis développeur back-end, spécialisé en Node.js, NestJS et web scraping. J'extrais des données de sites qui ne facilitent pas la tâche (connexion, pages JavaScript, pagination, limites de requêtes) avec Playwright et Cheerio, et je les livre propres et structurées, une fois ou tous les jours. Extraction de données, pipelines sur AWS, API Node.js : disponible pour des missions.</p>
 
 ## What I do
 
@@ -96,7 +96,7 @@ Articles on web scraping and queue-driven architectures: [read them on Medium](h
 
 ## Need data from a tricky source?
 
-A scraping pipeline that runs every day, or a solid Node.js back end? I'm available for freelance missions: web scraping projects, data pipelines, API design.
+A scraping pipeline that runs every day, or a solid Node.js back end? I'm available for missions: web scraping projects, data pipelines, API design.
 
 - Email: [juzans.etienne@gmail.com](mailto:juzans.etienne@gmail.com)
 - GitHub: [github.com/JKS9](https://github.com/JKS9)
@@ -105,4 +105,4 @@ A scraping pipeline that runs every day, or a solid Node.js back end? I'm availa
 
 ---
 
-<sub>JKS9 · Freelance back-end developer · Node.js, NestJS · Web scraping</sub>
+<sub>JKS9 · Back-end developer · Node.js, NestJS · Web scraping</sub>
