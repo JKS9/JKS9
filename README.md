@@ -4,13 +4,13 @@
 
 ## I'm JKS9, a back-end developer specialized in Node.js, NestJS and web scraping.
 
-**Back-end developer · Node.js, NestJS · Web scraping** · Available for missions.
+**Back-end developer · Node.js, NestJS · Web scraping**
 
 **Web scraping is the part of the job I never get tired of.** I turn messy websites into clean, structured data: headless browsers, dynamic pages, logins, pagination, rate limits, fragile selectors. The trickier the source, the more fun it gets, from a quick one-off script to a fleet of queue-driven workers running every day. Around that, I build scalable, high-performance back ends with Node.js, NestJS and the cloud.
 
 ### En français
 
-<p lang="fr">Je suis développeur back-end, spécialisé en Node.js, NestJS et web scraping. J'extrais des données de sites qui ne facilitent pas la tâche (connexion, pages JavaScript, pagination, limites de requêtes) avec Playwright et Cheerio, et je les livre propres et structurées, une fois ou tous les jours. Extraction de données, pipelines sur AWS, API Node.js : disponible pour des missions.</p>
+<p lang="fr">Je suis développeur back-end, spécialisé en Node.js, NestJS et web scraping. J'extrais des données de sites qui ne facilitent pas la tâche (connexion, pages JavaScript, pagination, limites de requêtes) avec Playwright et Cheerio, et je les livre propres et structurées, une fois ou tous les jours. Mes sujets : extraction de données, pipelines sur AWS, API Node.js.</p>
 
 ## What I do
 
@@ -78,9 +78,9 @@ I scrape websites that don't make it easy: logins, JavaScript-heavy pages, infin
 
 I build both: a quick one-off script for a single export, or a fleet of queue-driven workers on AWS SQS that run every day, with retries, dead-letter queues and an alert when a source changes.
 
-### What format do I get the data in?
+### What format does the data end up in?
 
-You get clean, validated, deduplicated data in the format you need: JSON, JSONL, CSV or Excel, delivered to S3, to your database (MongoDB, MySQL, ClickHouse, DynamoDB) or through an API.
+Clean, validated, deduplicated data in the format the project needs: JSON, JSONL, CSV or Excel, delivered to S3, to your database (MongoDB, MySQL, ClickHouse, DynamoDB) or through an API.
 
 ### Do you do more than scraping?
 
@@ -89,19 +89,19 @@ Yes. I also build Node.js back ends with NestJS or Express, type-safe APIs with 
 ## Latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- Coming soon on [Medium](https://medium.com/@JKS9)
+- Coming soon
 <!-- BLOG-POST-LIST:END -->
 
-Articles on web scraping and queue-driven architectures: [read them on Medium](https://medium.com/@JKS9).
+Articles on web scraping in production and queue-driven architectures, coming soon.
 
-## Need data from a tricky source?
+## Let's talk scraping
 
-A scraping pipeline that runs every day, or a solid Node.js back end? I'm available for missions: web scraping projects, data pipelines, API design.
+Fighting a tricky source, a pipeline that breaks every week, or a schema that keeps drifting? I'm always happy to talk about web scraping in production.
 
 - Email: [juzans.etienne@gmail.com](mailto:juzans.etienne@gmail.com)
 - GitHub: [github.com/JKS9](https://github.com/JKS9)
 - LinkedIn: [linkedin.com/in/etienne-juzans](https://www.linkedin.com/in/etienne-juzans)
-- Medium: [medium.com/@JKS9](https://medium.com/@JKS9)
+- Reddit: [u/JKS9_dev](https://www.reddit.com/user/JKS9_dev/)
 
 ---
 
