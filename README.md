@@ -83,7 +83,7 @@
 
 🐙 **GitHub** → [JKS9](https://github.com/JKS9)  
 
-✍ **Medium** → [My Articles](https://medium.com/@juzans-JKS9)
+✍ **Medium** → [My Articles](https://medium.com/@JKS9)
 
 ---
 
