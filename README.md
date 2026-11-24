@@ -53,18 +53,18 @@
 <summary><b>Full toolbox</b></summary>
 <br />
 
-| Area | Skills |
-| --- | --- |
-| **Languages** | JavaScript (ES6+), TypeScript, SQL |
-| **Back-end** | Node.js, NestJS, Express, tRPC, REST & OpenAPI (Swagger, Redoc), Zod, JWT authentication |
-| **Front-end** | React, Next.js (App Router), Tailwind CSS, Material UI, Redux Toolkit, TanStack Query, React Hook Form, next-intl, Storybook |
-| **Databases & search** | MongoDB (Mongoose), MySQL, DynamoDB, ClickHouse, Elasticsearch |
-| **Cloud** | AWS (SQS, S3, DynamoDB), Google Cloud (Cloud Storage, Google APIs), Firebase |
-| **DevOps** | Docker, Docker Compose, multi-arch builds, Kubernetes, GitLab CI/CD, LocalStack, MinIO, Infisical, Windmill |
-| **Data & automation** | Playwright, Cheerio, HTTP & SOCKS proxies, SQS workers (retries, dead-letter queues), ETL & batch exports (S3, JSONL), CSV / Excel / PDF / SFTP processing, cron jobs, email automation (Gmail API, Nodemailer, Brevo) |
-| **Architecture** | Microservices, serverless, event-driven & queue-based systems, secure API design, deduplication, idempotency, caching, performance optimization |
-| **Quality & ops** | Jest, ESLint, Prettier, Husky & lint-staged, runtime validation & schema drift detection, structured logging & alerting (Pino, Slack), monitoring |
-| **Workflow** | Git, GitHub, GitLab, AI-assisted development (Claude Code) |
+| Area                   | Skills                                                                                                                                                                                                                 |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**          | JavaScript (ES6+), TypeScript, SQL                                                                                                                                                                                     |
+| **Back-end**           | Node.js, NestJS, Express, tRPC, REST & OpenAPI (Swagger, Redoc), Zod, JWT authentication                                                                                                                               |
+| **Front-end**          | React, Next.js (App Router), Tailwind CSS, Material UI, Redux Toolkit, TanStack Query, React Hook Form, next-intl, Storybook                                                                                           |
+| **Databases & search** | MongoDB (Mongoose), MySQL, DynamoDB, ClickHouse, Elasticsearch                                                                                                                                                         |
+| **Cloud**              | AWS (SQS, S3, DynamoDB), Google Cloud (Cloud Storage, Google APIs), Firebase                                                                                                                                           |
+| **DevOps**             | Docker, Docker Compose, multi-arch builds, Kubernetes, GitLab CI/CD, LocalStack, MinIO, Infisical, Windmill                                                                                                            |
+| **Data & automation**  | Playwright, Cheerio, HTTP & SOCKS proxies, SQS workers (retries, dead-letter queues), ETL & batch exports (S3, JSONL), CSV / Excel / PDF / SFTP processing, cron jobs, email automation (Gmail API, Nodemailer, Brevo) |
+| **Architecture**       | Microservices, serverless, event-driven & queue-based systems, secure API design, deduplication, idempotency, caching, performance optimization                                                                        |
+| **Quality & ops**      | Jest, ESLint, Prettier, Husky & lint-staged, runtime validation & schema drift detection, structured logging & alerting (Pino, Slack), monitoring                                                                      |
+| **Workflow**           | Git, GitHub, GitLab                                                                                                                                                                                                    |
 
 </details>
 
@@ -89,6 +89,7 @@ Yes. I also build Node.js back ends with NestJS or Express, type-safe APIs with 
 ## Latest articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - Coming soon
 <!-- BLOG-POST-LIST:END -->
 
