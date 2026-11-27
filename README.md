@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/zine-cover.svg" alt="JKS9, back-end developer specialized in Node.js, NestJS and web scraping: turning messy websites into clean, structured data." width="100%" />
+  <img src="assets/zine-cover.svg" alt="JKS9, back-end developer specialized in Node.js, NestJS and web scraping: web scraping in production." width="100%" />
 </p>
 
 ## I'm JKS9, a back-end developer specialized in Node.js, NestJS and web scraping.
@@ -40,7 +40,7 @@
 ### From a messy website to clean data
 
 <p align="center">
-  <img src="assets/zine-before-after.svg" alt="Before: messy HTML from a real website. After: clean, structured JSON, delivered every day." width="100%" />
+  <img src="assets/zine-before-after.svg" alt="Before: the HTML of a product page, with fragile selectors. After: the same product as clean JSON, checked by a schema." width="100%" />
 </p>
 
 ## Ingredients
