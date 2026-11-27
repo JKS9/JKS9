@@ -93,12 +93,13 @@ Yes. I also build Node.js back ends with NestJS or Express, type-safe APIs with 
 - Coming soon
 <!-- BLOG-POST-LIST:END -->
 
-Articles on web scraping in production and queue-driven architectures, coming soon.
+Articles on web scraping in production and queue-driven architectures, coming soon on [jks9.dev](https://jks9.dev/).
 
 ## Let's talk scraping
 
 Fighting a tricky source, a pipeline that breaks every week, or a schema that keeps drifting? I'm always happy to talk about web scraping in production.
 
+- Website: [jks9.dev](https://jks9.dev/)
 - Email: [juzans.etienne@gmail.com](mailto:juzans.etienne@gmail.com)
 - GitHub: [github.com/JKS9](https://github.com/JKS9)
 - LinkedIn: [linkedin.com/in/etienne-juzans](https://www.linkedin.com/in/etienne-juzans)
